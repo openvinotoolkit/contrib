@@ -4,7 +4,7 @@
 
 #include "multi-device/multi_device_config.hpp"
 #include "hetero/hetero_plugin_config.hpp"
-#include "behavior/version.hpp"
+#include "behavior/plugin/version.hpp"
 
 using namespace BehaviorTestsDefinitions;
 namespace {
